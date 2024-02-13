@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "christintina-qmfa",
+  "private_key_id": "d6ba8f382ab139debd46cf4c06d46c564d4654e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDqy8QzqXAo702K\nA8alR8W1NO/n1j4S1htQCj9DH42sOUJw1rlq9WEIvOuvalie5ak5NkyyIOtGgFya\nI2YJot6BSAb2jR37hkzJeIP9dG9qGd/JqXIUcP2Mh65NzKsxGrq+JiG/bSyve6pb\nwzvJ9S61MneX9Mh2vGVW0mXH+XDQy2xuwle1c2Hosh6eTDVXzqlg6n4dfddmtFmH\nPuMKs1GJ5YUHSdveiKIRBETqZpJnE3g5btHvSkKXWdK6kPvyPWrak5A9pMFeQ0rv\ny6CITgX+3v6oKVaOiXvAjz2vi6xxIVhREz5HsrFNQztDJA3ftI34IzTGp6NKstYn\nvmxV38r3AgMBAAECggEAF8vC/MFlXqCyKRSs4z9c6DqPPd3WuK3+YqRHORRPlW7Q\nLwN0E0T/KpWLBWIvzRrVhbjdGQiBD8oemHiR9NQO3Odh3Ub8DOvViG2wYtWUHRq2\nNYf4yd2RtNZjcfsWNonQ90iCDxaPetF7uIUW4Cb7Lt4IhNwIHRCG7L+yFQxQxLhH\neNi5XXk2OosGMZFUPecPyN9BkfO9lw8wKVMc9f4Dj5jyBs00MOiCRwfjOSRiHecp\nSNfE+VNcwydDRmEcTvKeNIP+Ir1f0kjh/utN5X0Ot26MBZibBKo1rhiQZkePtvrf\nAC+f2RQIFjow/CTj7gtCsJWorotQUQMdREq6pZvBwQKBgQD2pFs99QTQ1nXnvpyZ\nDGDNW5lDdH0v2dYcA0wVRQuSQEpAZSyOlrIC8WaVh7ZOVZh5owptn5WDcK3s3vaA\n2lPxt6gGxi4psGwuNNpeYKdw+FLKfOGgBeW8SXJePTA0tnkGybr/yC2vJlhWmEbq\n/yJHpc7oW4y0Fr+XZXLnwO1jUQKBgQDztFlLT1Nd+SJcxuIIFuJFKuUPwRRn7JP1\nznDTvfx7KL+qtC6bmEnRelbBxOkHd+CfxcJJ5++2ptz8EnknTK3+/V83fzDPChWK\nWmGxvmSDH3l+PhCSy1kduo2NZUEa0hGeHFOKZmT5H4GzyFCvIuVYIl5syU2zS49o\nt1lbZ8JnxwKBgHSmf1DqVYDALbuRd1cbd50ouXAh5COBj7ZoCM/2e+aL6ZJTR6OY\nulCSA8atDRg3e4nsBr6aP4iO/nONcGC44gLsrdemW6bz/fZMoQsKA6d2ixGhxsR8\nhY9r3V+c6PPFabBAMOVQs+qm5BjwpHn4eSoRza4vvnheWfcs0A+0O5JBAoGAEWgb\nTKbA1KB71NabxGomBTy4GbT3ySh7tP3mzyjtxLo3XnD6N0DcXOr5EWQIJPFqCN9u\nLisz0v7+H78OCkGO1/yu9V7PVKpquXQVMEXiFf+EhQDX3DRMDDSL8cJ+sPS6L2nk\niakgoy6d7AJtyOScLvxddDW4qArIlnkqF75Eg3cCgYB9Qrd1dbsSLlwWoGEhdL6R\nlx8r72Lpf2moIyfShxow33DmCa0H/dfIZ8SJxkSZ6SpbkmE3n03T//yGSLeaFzYO\nUEdFBZSheMu1ilxAlRgH5YsK4C027G2BLaYZYVh/Hv463MjG+daPvBHI+qjeSQkM\nwalJ13eJGTI6+J1D/I0qEA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@christintina-qmfa.iam.gserviceaccount.com",
+  "client_id": "107234881496646542819",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40christintina-qmfa.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
